@@ -1,0 +1,2 @@
+Think about the interfaces as public think, something that external users can use. Concrete implementation of interfaces is not publicly available,
+that is not something interesting for external users. The idea is to give users interfaces which define what they can see and what can't.
