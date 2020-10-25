@@ -1,0 +1,2 @@
+This implementation is not strictly from the book, but I find it pretty useful, when you want to create an object when you pass something
+which made distinction like enum in this case
